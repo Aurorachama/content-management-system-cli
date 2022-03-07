@@ -13,7 +13,7 @@
 * [Contact](#Contact)
 
 ## Deploy Link
-https://github.com/Aurorachama/
+https://github.com/Aurorachama/content-management-system-cli
 
 ## Description 
 
